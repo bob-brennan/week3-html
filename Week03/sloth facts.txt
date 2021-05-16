@@ -1,0 +1,38 @@
+
+
+
+
+
+
+
+
+  <li class="list-group-item active">Cras justo odio</li>
+  <li class="list-group-item">Dapibus ac facilisis in</li>
+  <li class="list-group-item">Morbi leo risus</li>
+  <li class="list-group-item">Porta ac consectetur ac</li>
+  <li class="list-group-item">Vestibulum at eros</li>
+
+
+
+
+<ul class="list-group">
+  <li class="list-group-item">All sloths have three toes (digits) on each rear limb</li>
+  <li class="list-group-item">They also have poor hearing</li>
+  <li class="list-group-item">The two versus three toed name indicates the number of digits on each forelimb</li>
+  <li class="list-group-item">Sloths have colour vision, but have poor visual acuity</li>
+  <li class="list-group-item">Sloths are tropical mammals that live in Central and South America</li>
+  <li class="list-group-item">They rely on their sense of smell and touch to find food</li>
+  <li class="list-group-item">Two-toed sloths are omnivorous, meaning they can consume plants and animals</li>
+  <li class="list-group-item">Three-toed sloths, on the other hand, are almost entirely herbivorous</li>
+  <li class="list-group-item">The outer hairs of sloth fur grow away from their extremities</li>
+  <li class="list-group-item">Green algae, known as Trichophilus grows on their fur. It becomes more pronounced during the rainy season</li>
+  <li class="list-group-item">A sloth has less muscle per pound that any other mammal</li>
+  <li class="list-group-item">It can tale up to 30 days to digest a single meal</li>
+  <li class="list-group-item">Sloths move slowly to conserve energy</li>
+  <li class="list-group-item">Sloths have special bone structure used to grip, hold and hang</li>
+  <li class="list-group-item">Sloths are excellent swimmers</li>
+  <li class="list-group-item">Sloths sleep about 15 hours per day</li>
+  <li class="list-group-item">They maintain a low body temperature of about 86°F-93°F</li>
+  <li class="list-group-item">While considered warm blooded, Sloths have the largest variation in tollerable body temperatures</li>
+  <li class="list-group-item">They move in and out of shade to regulate their body temperature</li>
+ </ul>
